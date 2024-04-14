@@ -1,0 +1,48 @@
+commit 900e612274cb62313875df98aee2c19277a14936 (HEAD -> master, origin/master)
+Merge: a22e903 16fe1f7
+Author: Viktorija Uneva <unevaviktorija@gmail.com>
+Date:   Sun Apr 14 12:33:05 2024 +0200
+
+    Merge bug2 branch into master
+
+commit a22e9035907df89d5ba39c60b1c6c1441a45cb57
+Author: Viktorija Uneva <unevaviktorija@gmail.com>
+Date:   Sun Apr 14 12:31:35 2024 +0200
+
+    Corrected mistake
+
+commit 16fe1f76ddf77256348cdaca921203a17b2f7a61 (origin/bug2, bug2)
+Author: Viktorija Uneva <unevaviktorija@gmail.com>
+Date:   Sun Apr 14 12:12:33 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 6a1a8413d2cbb38f87d5030d803c3652dded414a (origin/bug1, bug1)
+Author: Viktorija Uneva <unevaviktorija@gmail.com>
+Date:   Sun Apr 14 12:10:45 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 9bd2a8333a4ed01bbbd0db985cac1f7cacc19368
+Author: Viktorija Uneva <unevaviktorija@gmail.com>
+Date:   Sun Apr 14 11:50:07 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 53f78c2425a6fdf7915d77a7d6599d5a536e638c
+Author: Viktorija Uneva <unevaviktorija@gmail.com>
+Date:   Sun Apr 14 11:49:06 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit babe852eacdc5acc52d233c6b022062f81e67606
+Author: Viktorija Uneva <unevaviktorija@gmail.com>
+Date:   Sun Apr 14 11:45:16 2024 +0200
+
+    Add starter code
+
+commit 77defd4524a3f4e3214e7e92e646f41346c73c11
+Author: Viktorija Uneva <unevaviktorija@gmail.com>
+Date:   Sun Apr 14 11:42:24 2024 +0200
+
+    Initial commit

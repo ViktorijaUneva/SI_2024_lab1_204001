@@ -1,0 +1,17 @@
+    1.Инсталиран Git и креиран GitHub профил.
+    2.Преименувана главната гранка на GitHub во master.
+    3.Креиран е оддалечен репозиториум на GitHub со име SI_2024_lab1_204001.
+    4.Креиран е локален репозиториум со истото име како оддалечениот репозиториум.
+    5.Иницијализиран Git во локалниот репозиториум и поврзан со оддалечениот репозиториум.
+    6.Додадена е датотека README.md со Моето име и индекс и направен прв commit.
+    7.Додадов три фајлови од дадените линкови во локалниот репозиториум и направив commit со порака "Add starter code."
+    8.Ги синхронизирани сите гранки со оддалечениот репозиториум.
+    9.Креирав две гранки (bug1 и bug2) од главната (master) гранка.
+    10.Ја исправив  грешката во методот filterOddLengthStrings во bug1 гранката и направив commit со порака "Fix wrong condition in filterOddLengthStrings."
+    11.Ја исправив грешката во методот makeBigStringFrom во bug2 гранката и направив commit со порака "Fix wrong condition in makeBigStringFrom."
+    12.Додадов повик на методот filterOddLengthStrings во класата SILab1Main во bug1 гранката и направив commit со порака "Call method filterOddLengthStrings in main class."
+    13.Додадов повик на методот makeBigStringFrom во класата SILab1Main во bug2 гранката и направив commit со порака "Call method makeBigStringFrom in main class."
+    14.Ја споив bug1 гранката кон master.
+    15.Ги синхронизирав сите гранки со оддалечениот репозиториум.
+    16.Се префрлив на bug2 гранката и го решив конфликтот, merge конфликт.
+   
